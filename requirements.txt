@@ -1,0 +1,6 @@
+opencv-python
+numpy
+albumentations
+scikit-learn
+tqdm
+ipykernel
